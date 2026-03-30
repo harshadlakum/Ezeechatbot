@@ -1,0 +1,16 @@
+﻿Acme Corp - IT Support and Equipment Policy
+
+Laptop Issuance:
+Every new employee receives a company laptop within 3 working days of their joining date. The laptop comes pre-configured with required software. Employees must sign an asset acknowledgment form upon receipt.
+
+Laptop Support Process:
+If your laptop crashes, freezes, or has any hardware or software issue, you must raise a support ticket immediately on the IT helpdesk portal available at helpdesk.acmecorp.com. Alternatively, send an email to it-support@acmecorp.com with a description of the issue. For critical failures, a replacement device will be provided within 2 working days. For minor repairs, the turnaround time is 3 to 5 working days.
+
+Software Policy:
+Employees must not install any unauthorised or unlicensed software on company devices. All software installations must be approved by IT. The list of approved software is available on the IT portal.
+
+Data Backup:
+Employees are responsible for regularly backing up their work to the company-approved cloud storage which is Google Drive. The company is not liable for data loss due to failure to back up regularly.
+
+Code of Conduct:
+All employees are expected to behave professionally and respectfully with colleagues and clients. Any instance of harassment, discrimination, bullying, or misconduct must be reported to the HR team immediately. Confidential company and client information must not be shared on external platforms.

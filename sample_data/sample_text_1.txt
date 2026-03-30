@@ -1,0 +1,16 @@
+﻿Acme Corp - HR Policy Overview
+
+Leave Policy:
+Employees receive 18 days of paid annual leave per year. Casual leave is 6 days per year and cannot be carried forward to the next year. Sick leave is 12 days per year. A medical certificate is required for sick leave exceeding 2 consecutive days. Maternity leave is 26 weeks. Paternity leave is 5 working days. All planned leaves must be applied for at least 3 days in advance through the HR portal.
+
+Work From Home Policy:
+Employees can work from home up to 2 days per week with manager approval. Full-time remote work requires explicit approval from the department head and HR. During WFH, employees must remain available on Slack and email during core hours from 10 AM to 5 PM IST. WFH is not allowed on days with mandatory office meetings.
+
+Reimbursement Policy:
+Local travel is reimbursable up to INR 2,000 per day. Outstation hotel stays are reimbursed up to INR 10,000 per day with prior approval. Outstation travel by air or train is reimbursed at actuals. Meal expenses during official trips are capped at INR 800 per day. All claims must be submitted within 30 days with original receipts through the expense portal.
+
+Payroll Cycle:
+Salaries are credited on the last working day of each month. The pay period is from the 1st to the last calendar day of the month. Salary slips are accessible on the employee self-service portal. Any discrepancy in salary must be reported to HR within 7 days of credit.
+
+Office Timings:
+Standard office hours are 9:30 AM to 6:30 PM IST from Monday to Friday. Core hours are 10 AM to 5 PM. Flexible start times between 8 AM and 10 AM are available with manager approval. The office follows the national public holiday calendar published by HR in January each year.
