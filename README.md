@@ -41,7 +41,7 @@ Testing        pytest + pytest-asyncio
 
 ### Steps
 
-\\\ash
+\\\ash
 # Clone the repo
 git clone https://github.com/YOUR_USERNAME/ezeechatbot.git
 cd ezeechatbot
@@ -100,7 +100,7 @@ GET     /api/v1/stats/{bot_id}     Get usage stats for a bot
 
 ### 1. Upload raw text
 
-\\\ash
+\\\ash
 curl -X POST "http://127.0.0.1:8080/api/v1/upload" \
   -F "source_type=text" \
   -F "text=Employees get 18 days annual leave and 6 days casual leave per year."
@@ -108,7 +108,7 @@ curl -X POST "http://127.0.0.1:8080/api/v1/upload" \
 
 ### 2. Upload a URL
 
-\\\ash
+\\\ash
 curl -X POST "http://127.0.0.1:8080/api/v1/upload" \
   -F "source_type=url" \
   -F "url=https://en.wikipedia.org/wiki/Python_(programming_language)"
@@ -116,7 +116,7 @@ curl -X POST "http://127.0.0.1:8080/api/v1/upload" \
 
 ### 3. Upload a PDF
 
-\\\ash
+\\\ash
 curl -X POST "http://127.0.0.1:8080/api/v1/upload" \
   -F "source_type=pdf" \
   -F "file=@sample_data/acme_hr_policy.pdf;type=application/pdf"
@@ -124,7 +124,7 @@ curl -X POST "http://127.0.0.1:8080/api/v1/upload" \
 
 ### 4. Chat with a bot
 
-\\\ash
+\\\ash
 curl -X POST "http://127.0.0.1:8080/api/v1/chat" \
   -H "Content-Type: application/json" \
   -d '{
@@ -136,7 +136,7 @@ curl -X POST "http://127.0.0.1:8080/api/v1/chat" \
 
 ### 5. Get stats
 
-\\\ash
+\\\ash
 curl "http://127.0.0.1:8080/api/v1/stats/YOUR_BOT_ID"
 \\\
 
@@ -144,7 +144,7 @@ curl "http://127.0.0.1:8080/api/v1/stats/YOUR_BOT_ID"
 
 ## Run Tests
 
-\\\ash
+\\\ash
 pytest tests/ -v
 \\\
 
